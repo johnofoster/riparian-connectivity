@@ -1,0 +1,60 @@
+08/04/2022 10:39:07
+
+Riparian connectivity log:
+Petite Nation-Sample1
+
+Results directory:
+f/Users/johnofoster/Documents/GitHub/riparian-connectivity/results/Petite_Nation-Sample1/Petite_Nation-Sample1
+
+Watershed boundary input:
+/Users/johnofoster/Documents/GitHub/riparian-connectivity-public/example/sample_inputs/watershed_boundary-sample1.gpkg
+
+Water bodies input:
+/Users/johnofoster/Documents/GitHub/riparian-connectivity-public/example/sample_inputs/water_bodies-sample1.gpkg
+
+Water courses input:
+/Users/johnofoster/Documents/GitHub/riparian-connectivity-public/example/sample_inputs/water_courses-sample1.gpkg
+
+Imagery input:
+/Users/johnofoster/Documents/GitHub/riparian-connectivity-public/example/sample_inputs/PN_S2_sample1.tif
+
+Imagery coordinate reference system: EPSG:2951
+
+Riparian buffer width (m) input: 30.0
+
+Computations started @ 10:39:07
+
+Riparian buffer completed @  10:39:08
+
+Riprian buffer NDVI image completed @ 10:39:09
+
+Otsu-generated threshold suggestion: 0.3635
+
+NDVI threshold input: 0.4
+
+Riprian buffer vegetation image completed @ 10:39:12
+
+Riprian buffer vegetation image converted to vector @ 10:39:15
+
+Riparian statistics completed @ 10:39:16
+
+Results:
+                                                               0
+Watershed name                             Petite Nation-Sample1
+Buffer width:                                               30.0
+NDVI threshold                                               0.4
+Watershed area (km2)                                       100.0
+Riparian buffer area (km2)                             10.758653
+Vegetation area (km2)                                  10.609154
+Not-vegetation area (km2)                               0.149499
+Vegetation coverage (%)                                98.610428
+Not-vegetation coverage (%)                             1.389572
+Mean area of not-vegetation patches (km2)               0.000319
+Number of riparian buffer features                            38
+Number of vegetation features                                 72
+Number of not-vegetation features                            469
+Perimeter of riparian buffer (km)                     591.397708
+Perimeter of vegetation features (km)                 596.590485
+Perimeter of not-vegetation features (km)               33.13162
+Vegetation Connectivity                                 0.527778
+Vegetation Compactness                                  0.969013

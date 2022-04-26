@@ -1,0 +1,17 @@
+name: riparian_connect
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python
+  - folium
+  - geopandas
+  - joblib
+  - numpy
+  - matplotlib
+  - pandas
+  - rasterio
+  - rioxarray
+  - shapely
+  - scikit-image
