@@ -1,3 +1,6 @@
+# dev environment
+environment_dev.yml
+
 # MacOS
 .DS_Store
 
