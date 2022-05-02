@@ -11,7 +11,7 @@ environment_dev.yml
 /results/
 
 # Big examples folder
-/big_examples/
+/big_data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
